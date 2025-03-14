@@ -36,7 +36,7 @@
 ## **🌍 Connect with Me**  
 
 🌐 **Portfolio:** [Coming Soon]  
-📩 **Email:** anjishnu@example.com  
+📩 **Email:** anjicroma@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjishnu-nandi)  
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnjiCroma)  
