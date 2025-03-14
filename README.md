@@ -54,12 +54,17 @@ class Anjishnu:
 
 ## 🌟 **Projects Highlights**
 <div align="center">
-  <a href="https://github.com/cromaguy/project-name">
+  <a href="https://github.com/cromaguy/StudySkill">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=project-name&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
   </a>
-  <a href="https://github.com/cromaguy/another-project">
+  <a href="https://github.com/cromaguy/Quizzy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
   </a>
+  <a href="https://github.com/cromaguy/Feel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
+  </a>
+  <a href="https://github.com/cromaguy/GoalGuru">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
 </div>
 
 <p align="center">
