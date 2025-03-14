@@ -57,7 +57,7 @@ class Anjishnu:
 <!-- Remove this section or comment it out until you have public repositories to showcase -->
 
 <div align="center">
-  <a href="https://github.com/cromaguy/StudySkill">
+  <a href="https://github.com/cromaguy/StudySkill/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=repository-name&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
   </a>
   <a href="https://github.com/cromaguy/Feel">
