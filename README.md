@@ -39,12 +39,12 @@ class Anjishnu:
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cromaguy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cromaguy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cromaguy&theme=tokyonight&hide_border=true&background=0D1117" height="170px"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cromaguy&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cromaguy&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Most Used Languages"/>
 </div>
 
 ## 🏆 **GitHub Trophies**
@@ -53,28 +53,27 @@ class Anjishnu:
 </p>
 
 ## 🚀 **Featured Projects**
-<!-- Replace these with actual repositories once you've created them -->
-<!-- Remove this section or comment it out until you have public repositories to showcase -->
 
 <div align="center">
-  <a href="https://github.com/cromaguy/StudySkill/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=repository-name&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
+  <a href="https://github.com/cromaguy/StudySkill">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cromaguy&repo=StudySkill&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="StudySkill Project"/>
   </a>
   <a href="https://github.com/cromaguy/Feel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=another-repository&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cromaguy&repo=Feel&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Feel Project"/>
   </a>
+</div>
+<div align="center">
   <a href="https://github.com/cromaguy/Quizzy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=another-repository&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cromaguy&repo=Quizzy&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Quizzy Project"/>
   </a>
   <a href="https://github.com/cromaguy/GoalGuru">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=another-repository&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cromaguy&repo=GoalGuru&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="GoalGuru Project"/>
   </a>
 </div>
 
-
 ## 🌱 **Currently Working On**
 <p align="center">
-  <em>Building my portfolio and exploring new technologies. Check back soon for exciting projects!</em>
+  <em>Building my portfolio and exploring new technologies in AI and cloud computing.</em>
 </p>
 
 <p align="center">
