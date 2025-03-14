@@ -52,20 +52,30 @@ class Anjishnu:
   <img src="https://github-profile-trophy.vercel.app/?username=cromaguy&theme=nord&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
-## 🌟 **Projects Highlights**
+## 🚀 **Featured Projects**
+<!-- Replace these with actual repositories once you've created them -->
+<!-- Remove this section or comment it out until you have public repositories to showcase -->
+<!--
 <div align="center">
   <a href="https://github.com/cromaguy/StudySkill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=project-name&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
-  </a>
-  <a href="https://github.com/cromaguy/Quizzy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=repository-name&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
   </a>
   <a href="https://github.com/cromaguy/Feel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=another-repository&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
+  </a>
+  <a href="https://github.com/cromaguy/Quizzy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=another-repository&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
   </a>
   <a href="https://github.com/cromaguy/GoalGuru">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=another-repository&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
+  </a>
 </div>
+-->
+
+## 🌱 **Currently Working On**
+<p align="center">
+  <em>Building my portfolio and exploring new technologies. Check back soon for exciting projects!</em>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dbde,100:fc00ff&height=120&section=footer&fontSize=20" width="100%"/>
