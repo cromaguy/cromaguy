@@ -55,7 +55,7 @@ class Anjishnu:
 ## 🚀 **Featured Projects**
 <!-- Replace these with actual repositories once you've created them -->
 <!-- Remove this section or comment it out until you have public repositories to showcase -->
-<!--
+
 <div align="center">
   <a href="https://github.com/cromaguy/StudySkill">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=repository-name&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
@@ -70,7 +70,7 @@ class Anjishnu:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=another-repository&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Project"/>
   </a>
 </div>
--->
+
 
 ## 🌱 **Currently Working On**
 <p align="center">
