@@ -78,12 +78,10 @@ class Anjishnu:
   </a>
 </div>
 
-## 📚 **Recent Blog Posts**
-<!-- BLOG-POST-LIST:START -->
+<!-- ## 📚 **Recent Blog Posts**
 - [My Journey into Cloud Computing](https://example.com)
 - [Understanding the Fundamentals of System Design](https://example.com)
-- [How I Built My First AI Application](https://example.com)
-<!-- BLOG-POST-LIST:END -->
+- [How I Built My First AI Application](https://example.com) -->
 
 ## 🌱 **Currently Working On**
 <p align="center">
