@@ -20,6 +20,10 @@ class Anjishnu:
     
     def daily_routine(self):
         return ["Code", "Learn", "Innovate", "Repeat"]
+        
+    def goals_for_2025(self):
+        return ["Master full-stack development", "Contribute to open source", 
+                "Build an AI-powered personal project", "Improve cloud architecture skills"]
 ```
 
 ## 🛠️ **Tech Stack & Tools**
@@ -34,6 +38,9 @@ class Anjishnu:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 </p>
 
 ## 📊 **GitHub Stats**
@@ -55,8 +62,8 @@ class Anjishnu:
 ## 🚀 **Featured Projects**
 
 <div align="center">
-  <a href="https://github.com/cromaguy/StudySkill">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cromaguy&repo=StudySkill&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="StudySkill Project"/>
+  <a href="https://github.com/cromaguy/NewAngle">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cromaguy&repo=NewAngle&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="NewAngle Project"/>
   </a>
   <a href="https://github.com/cromaguy/Feel">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cromaguy&repo=Feel&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Feel Project"/>
@@ -71,9 +78,16 @@ class Anjishnu:
   </a>
 </div>
 
+## 📚 **Recent Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [My Journey into Cloud Computing](https://example.com)
+- [Understanding the Fundamentals of System Design](https://example.com)
+- [How I Built My First AI Application](https://example.com)
+<!-- BLOG-POST-LIST:END -->
+
 ## 🌱 **Currently Working On**
 <p align="center">
-  <em>Building my portfolio and exploring new technologies in AI and cloud computing.</em>
+  <em>Building a personal portfolio website and exploring new technologies in AI and cloud computing!</em>
 </p>
 
 <p align="center">
