@@ -62,18 +62,18 @@ class Anjishnu:
 ## 🚀 **Featured Projects**
 
 <div align="center">
-  <a href="https://github.com/cromaguy/NewAngle">
+  <a href="https://github.com/cromaguy/Project-NewAngle">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cromaguy&repo=NewAngle&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="NewAngle Project"/>
   </a>
-  <a href="https://github.com/cromaguy/Feel">
+  <a href="https://github.com/cromaguy/Project-Feel">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cromaguy&repo=Feel&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Feel Project"/>
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/cromaguy/Quizzy">
+  <a href="https://github.com/cromaguy/Project-Quizzy">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cromaguy&repo=Quizzy&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Quizzy Project"/>
   </a>
-  <a href="https://github.com/cromaguy/GoalGuru">
+  <a href="https://github.com/cromaguy/Project-GoalGuru">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cromaguy&repo=GoalGuru&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="GoalGuru Project"/>
   </a>
 </div>
