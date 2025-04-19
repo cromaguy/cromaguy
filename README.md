@@ -42,7 +42,7 @@ class Anjishnu:
 
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css,sql" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css,sql" alt="Languages" />
   
   <h3>Frameworks & Libraries</h3>
   <img src="https://skillicons.dev/icons?i=react,django,flask,bootstrap,tailwind" alt="Frameworks" />
@@ -70,19 +70,24 @@ class Anjishnu:
 ## 🚀 **Featured Projects**
 
 <div align="center">
-  <a href="https://github.com/cromaguy/AI-PersonalAssistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=AI-PersonalAssistant&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="AI Personal Assistant"/>
+  <a href="https://github.com/cromaguy/Project-NewAngle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=NewAngle&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="AI Personal Assistant"/>
   </a>
-  <a href="https://github.com/cromaguy/CloudNative-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=CloudNative-Dashboard&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="Cloud Native Dashboard"/>
+  <a href="https://github.com/cromaguy/Project-Feel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=Feel&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="Cloud Native Dashboard"/>
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/cromaguy/DataViz-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=DataViz-Platform&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="Data Visualization Platform"/>
+  <a href="https://github.com/cromaguy/Project-GoalGuru">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=GoalGuru&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="Data Visualization Platform"/>
   </a>
-  <a href="https://github.com/cromaguy/FullStack-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=FullStack-Portfolio&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="Full Stack Portfolio"/>
+  <a href="https://github.com/cromaguy/Project-Quizzy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=Quizzy&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="Full Stack Portfolio"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/cromaguy/StudySkill">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=StudySkill&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="Data Visualization Platform"/>
   </a>
 </div>
 
