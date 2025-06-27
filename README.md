@@ -71,7 +71,7 @@ class Anjishnu:
 
 <div align="center">
   <a href="https://github.com/cromaguy/Rhythm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=Project-Rhythm&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="Rhythm: Android Music App"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=Rhythm&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="Rhythm: Android Music App"/>
   </a>
 </div>
 <div align="center">
