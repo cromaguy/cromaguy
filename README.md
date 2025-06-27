@@ -70,24 +70,13 @@ class Anjishnu:
 ## 🚀 **Featured Projects**
 
 <div align="center">
-  <a href="https://github.com/cromaguy/Project-NewAngle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=Project-NewAngle&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="NewAngle"/>
-  </a>
-  <a href="https://github.com/cromaguy/Project-Feel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=Project-Feel&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="Feel"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/cromaguy/Project-GoalGuru">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=Project-GoalGuru&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="GoalGuru"/>
-  </a>
-  <a href="https://github.com/cromaguy/Project-Quizzy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=Project-Quizzy&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="Quizzy"/>
+  <a href="https://github.com/cromaguy/Rhythm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=Project-Rhythm&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="Rhythm: Android Music App"/>
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/cromaguy/StudySkill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=StudySkill&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="StudySkill"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=StudySkill&theme=transparent&hide_border=true&title_color=00CCF5&text_color=FFFFFF&icon_color=57BCDA" width="49%" alt="StudySkill Web"/>
   </a>
 </div>
 
